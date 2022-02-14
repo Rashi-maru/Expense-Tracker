@@ -1,0 +1,12 @@
+                                #root,
+                                body,
+                                html {
+                                    height: 100%;
+                                    margin: 0;
+                                }
+                                
+                                body {
+                                    /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://lh3.googleusercontent.com/proxy/JHme9PoMmTRIgr5EUjJTKovmcVjwxiFk-Abbc5nfNahvtauPwSOVP4c0El2xjjEApgsn_vbwy9T2DBZNX1Teruq181h3fZ8NnEF-KZw1pTG5uAoUoDoWUWADr2xVOIh2"); */
+                                    /* background-size: contain; */
+                                    background-image: url(./assets/bg.png);
+                                }
