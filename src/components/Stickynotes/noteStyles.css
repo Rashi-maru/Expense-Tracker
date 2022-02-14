@@ -1,0 +1,33 @@
+    .note {
+        position: "absolute";
+        cursor: "pointer";
+        /* background-image: url('https://i.pinimg.com/originals/6f/ff/ae/6fffaec7a72e5a5cc2da06b8dd54ba46.png'); */
+        background-image: url('../../assets/sss_f.png');
+        background-size: "cover";
+        top: 100px;
+        left: 300px;
+        height: 155px;
+        width: 155px;
+        padding: 20px;
+    }
+    
+    .text {
+        font-family: Arial, Helvetica, sans-serif;
+        height: 100%;
+        width: 100%;
+        white-space: pre-wrap;
+        overflow-y: scroll;
+    }
+    
+    .close {
+        width: 35px;
+        height: 35px;
+        position: absolute;
+        right: 15px;
+        /* left: 45px; */
+        transition: transform .3s ease;
+    }
+    
+    close:hover {
+        transform: scale(1.6);
+    }
